@@ -1,1 +1,3 @@
-# Project_Team-Intruder
+## CONNECTING VSCODE WITH AWS INSTANCE
+
+<img src="vscode.png">
